@@ -1,0 +1,15 @@
+1.Window:
+It represents the browser's window
+Window is the main JavaScript object root, the global object in a browser,
+also can be treated as the root of the document object model.
+root object in the browser JavaScript programming.
+
+
+2.Screen:
+Attribute of the window global object, which contains the size information of the physical screen.
+Screen which holds the informations,
+ the screen object associated with the window.
+
+3.Document:
+The format which appear on the browser is known as document.
+Document type is used on HTML. 
